@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/sentenceSplitter/grammar
+END
+main.jape
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/sentenceSplitter/grammar/main.jape
+END
+find-single-nl.jape
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/sentenceSplitter/grammar/find-single-nl.jape
+END
+cleanup.jape
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/sentenceSplitter/grammar/cleanup.jape
+END
+no-splits.jape
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/sentenceSplitter/grammar/no-splits.jape
+END
+main-single-nl.jape
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/sentenceSplitter/grammar/main-single-nl.jape
+END
+split.jape
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/sentenceSplitter/grammar/split.jape
+END
+prepare.jape
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/sentenceSplitter/grammar/prepare.jape
+END
+find.jape
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/sentenceSplitter/grammar/find.jape
+END

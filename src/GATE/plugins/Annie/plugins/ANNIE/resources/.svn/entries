@@ -1,0 +1,58 @@
+10
+
+dir
+443
+https://semantic-assist.svn.sourceforge.net/svnroot/semantic-assist/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources
+https://semantic-assist.svn.sourceforge.net/svnroot/semantic-assist
+
+
+
+2010-11-08T00:20:18.108149Z
+24
+renew
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b9b8f8e6-b170-4df4-ac4d-c6b2a30827bf
+
+schema
+dir
+
+NE
+dir
+
+tokeniser
+dir
+
+BengaliNE
+dir
+
+VP
+dir
+
+heptag
+dir
+
+gazetteer
+dir
+
+sentenceSplitter
+dir
+
+othomatcher
+dir
+
+regex-splitter
+dir
+

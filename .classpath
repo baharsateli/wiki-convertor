@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.mylyn.wikitext.core_1.7.0.I20120427-0132.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.mylyn.wikitext.mediawiki.core_1.7.0.I20120427-0132.jar"/>
+	<classpathentry kind="lib" path="lib/gate.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/arq.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/icu4j-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/iri.jar"/>
+	<classpathentry kind="lib" path="lib/jena.jar"/>
+	<classpathentry kind="lib" path="lib/orphanNodesAlg.jar"/>
+	<classpathentry kind="lib" path="lib/nekohtml-1.9.14.jar"/>
+	<classpathentry kind="lib" path="lib/tika-core-0.7.jar"/>
+	<classpathentry kind="lib" path="lib/tika-parsers-0.7.jar"/>
+	<classpathentry kind="lib" path="lib/gate-asm.jar"/>
+	<classpathentry kind="lib" path="lib/gate-compiler-jdt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

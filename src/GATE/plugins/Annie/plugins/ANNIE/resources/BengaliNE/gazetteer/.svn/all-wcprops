@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/BengaliNE/gazetteer
+END
+forenames.lst
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/BengaliNE/gazetteer/forenames.lst
+END
+organisations.lst
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/BengaliNE/gazetteer/organisations.lst
+END
+bengali_gazetteer.def
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/BengaliNE/gazetteer/bengali_gazetteer.def
+END
+city_bengali.lst
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/BengaliNE/gazetteer/city_bengali.lst
+END
+surnames.lst
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/BengaliNE/gazetteer/surnames.lst
+END

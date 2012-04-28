@@ -1,0 +1,737 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer
+END
+title_male.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/title_male.lst
+END
+airport.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/airport.lst
+END
+times.lst
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/times.lst
+END
+date_post.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/date_post.lst
+END
+person_ambig.old.lst
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_ambig.old.lst
+END
+date_pre.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/date_pre.lst
+END
+minutes.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/minutes.lst
+END
+newspapers.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/newspapers.lst
+END
+mapping.def
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/mapping.def
+END
+person_ambig2.lst
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_ambig2.lst
+END
+person_female_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_female_lower.lst
+END
+ordinal.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/ordinal.lst
+END
+abbreviations.lst
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/abbreviations.lst
+END
+person_full.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_full.lst
+END
+title_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/title_lower.lst
+END
+lists.def
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/lists.def
+END
+racecourse.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/racecourse.lst
+END
+number_fold.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/number_fold.lst
+END
+timex_pre.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/timex_pre.lst
+END
+cdg.lst
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/cdg.lst
+END
+org_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/org_key.lst
+END
+loc_relig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/loc_relig.lst
+END
+day_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/day_cap.lst
+END
+year.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/year.lst
+END
+airports.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/airports.lst
+END
+loc_prekey_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/loc_prekey_lower.lst
+END
+facility.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/facility.lst
+END
+organization.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/organization.lst
+END
+person_male.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_male.lst
+END
+person_ambig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_ambig.lst
+END
+not_org.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/not_org.lst
+END
+months.lst
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/months.lst
+END
+org_ending.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/org_ending.lst
+END
+person_female.lst
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_female.lst
+END
+timespan.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/timespan.lst
+END
+title.lst
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/title.lst
+END
+org_key_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/org_key_cap.lst
+END
+ident_prekey.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/ident_prekey.lst
+END
+planet.lst
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/planet.lst
+END
+region.lst
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/region.lst
+END
+date_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/date_key.lst
+END
+province.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/province.lst
+END
+phone_prefix.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/phone_prefix.lst
+END
+team.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/team.lst
+END
+person_male_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_male_cap.lst
+END
+person_relig.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_relig.lst
+END
+spur.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/spur.lst
+END
+mountain.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/mountain.lst
+END
+timezone.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/timezone.lst
+END
+time_unit.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/time_unit.lst
+END
+time.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/time.lst
+END
+jobtitles.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/jobtitles.lst
+END
+nonspec_date.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/nonspec_date.lst
+END
+person_female_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_female_cap.lst
+END
+department.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/department.lst
+END
+greeting.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/greeting.lst
+END
+company.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/company.lst
+END
+region_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/region_cap.lst
+END
+street.lst
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/street.lst
+END
+city_uk.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/city_uk.lst
+END
+currency_prefix.lst
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/currency_prefix.lst
+END
+city.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/city.lst
+END
+time_ampm.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/time_ampm.lst
+END
+othorg_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/othorg_key.lst
+END
+rivers.lst
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/rivers.lst
+END
+charities.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/charities.lst
+END
+facility_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/facility_key.lst
+END
+person_male_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_male_lower.lst
+END
+hour.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/hour.lst
+END
+months_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/months_lower.lst
+END
+org_base.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/org_base.lst
+END
+country_adj.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/country_adj.lst
+END
+region_uk.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/region_uk.lst
+END
+title_mil.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/title_mil.lst
+END
+water.lst
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/water.lst
+END
+loc_generalkey.lst
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/loc_generalkey.lst
+END
+company_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/company_cap.lst
+END
+adbc.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/adbc.lst
+END
+sports.lst
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/sports.lst
+END
+title_female.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/title_female.lst
+END
+city_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/city_cap.lst
+END
+title_pol.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/title_pol.lst
+END
+facility_key_ext.lst
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/facility_key_ext.lst
+END
+determiner.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/determiner.lst
+END
+org_spur.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/org_spur.lst
+END
+percent.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/percent.lst
+END
+country.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/country.lst
+END
+time_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/time_key.lst
+END
+date_unit.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/date_unit.lst
+END
+festival.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/festival.lst
+END
+ministry.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/ministry.lst
+END
+person_spur.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_spur.lst
+END
+non_company.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/non_company.lst
+END
+tvcompany.lst
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/tvcompany.lst
+END
+government.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/government.lst
+END
+country_abbrev.lst
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/country_abbrev.lst
+END
+loc_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/loc_key.lst
+END
+other_people.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/other_people.lst
+END
+stop.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/stop.lst
+END
+title_lowercase.lst
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/title_lowercase.lst
+END
+country_cap.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/country_cap.lst
+END
+colours.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/colours.lst
+END
+organization_nouns.lst
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/organization_nouns.lst
+END
+province_aa.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/province_aa.lst
+END
+province_ab.lst
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/province_ab.lst
+END
+surname_prefix.lst
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/surname_prefix.lst
+END
+currency_unit.lst
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/currency_unit.lst
+END
+person_ending.lst
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_ending.lst
+END
+loc_prekey.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/loc_prekey.lst
+END
+org_pre.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/org_pre.lst
+END
+datespan.lst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/datespan.lst
+END
+person_sci.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_sci.lst
+END
+new_cdg.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/new_cdg.lst
+END
+new_adj.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/new_adj.lst
+END
+govern_key.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/govern_key.lst
+END
+numbers.lst
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/numbers.lst
+END
+spur_ident.lst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/spur_ident.lst
+END
+time_modifier.lst
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/time_modifier.lst
+END
+date.lst
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/date.lst
+END
+day.lst
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/day.lst
+END
+person_ambig_lower.lst
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_ambig_lower.lst
+END
+person_first.lst
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/semantic-assist/!svn/ver/24/trunk/Resources/GatePipelines/Annie/plugins/ANNIE/resources/gazetteer/person_first.lst
+END
